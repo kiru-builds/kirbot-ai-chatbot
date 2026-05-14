@@ -1,4 +1,4 @@
-[01:40, 13/04/2026] Kirthi: # 💬 KirBot — AI Chatbot
+## 💬 KirBot — AI Chatbot
 
 *By Kirthika | AI & Data Science Student*
 
